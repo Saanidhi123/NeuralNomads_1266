@@ -133,7 +133,7 @@ async def narrative(req: ReportRequest):
         for d in defects
     ])
 
-    genai.configure(api_key="YOUR_GEMINI_API_KEY")
+    genai.configure(api_key="AIzaSyAt6z0F0Wq0MwTFUS0LYgaL4AZYvGEl1Eo")
     model = genai.GenerativeModel("gemini-1.5-flash")
     response = model.generate_content(f"""You are a structural engineer writing an inspection report.
 Defects found:
