@@ -22,7 +22,9 @@ SiteSense is an end-to-end AI pipeline that transforms raw drone footage of infr
 
 | Dashboard | Defect Detection Overlay | Severity Score Cards |
 |-----------|--------------------------|----------------------|
-| ![Dashboard](docs/images/dashboard.png) | ![Detection](docs/images/detection_overlay.png) | ![Scores](docs/images/severity_cards.png) |
+| ![Dashboard]<img width="1891" height="915" alt="image" src="https://github.com/user-attachments/assets/b4e09f0a-cc4d-4f4c-b46a-40d823ce603e" />
+ | ![GPS Defect Mapping]<img width="1910" height="917" alt="image" src="https://github.com/user-attachments/assets/b6a6f0e8-3d03-4e5b-9f0e-65c26e7bdc38" />
+ | ![Scores](docs/images/severity_cards.png) |
 
 *↑ Replace placeholders with actual screenshots*
 
