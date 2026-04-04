@@ -20,17 +20,15 @@ SiteSense is an end-to-end AI pipeline that transforms raw drone footage of infr
 
 ## 🖼️ Screenshots
 
-| Dashboard | Defect Detection Overlay | Severity Score Cards |
-|-----------|--------------------------|----------------------|
-| ![Dashboard]<img width="1891" height="915" alt="image" src="https://github.com/user-attachments/assets/b4e09f0a-cc4d-4f4c-b46a-40d823ce603e" />
- | ![GPS Defect Mapping]<img width="1910" height="917" alt="image" src="https://github.com/user-attachments/assets/b6a6f0e8-3d03-4e5b-9f0e-65c26e7bdc38" />
- | ![Scores](docs/images/severity_cards.png) |
+| Dashboard
+<img width="1891" height="915" alt="image" src="https://github.com/user-attachments/assets/b4e09f0a-cc4d-4f4c-b46a-40d823ce603e" />
+ | GPS Defect Mapping
+ <img width="1910" height="917" alt="image" src="https://github.com/user-attachments/assets/b6a6f0e8-3d03-4e5b-9f0e-65c26e7bdc38" />
+ | Temporal Analysis
+ <img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/6cd8bd24-4120-492f-9e65-08ca4dfdc247" />
 
-*↑ Replace placeholders with actual screenshots*
 
-| Orthomosaic Heatmap | PDF Report Export |
-|---------------------|-------------------|
-| ![Heatmap](docs/images/heatmap.png) | ![Report](docs/images/pdf_report.png) |
+
 
 ---
 
@@ -76,7 +74,8 @@ Drone Images (multiple passes)
 └─────────────────────┘
 ```
 
-![Architecture Diagram]<img width="1327" height="592" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/3e5a579e-db06-402d-9e28-3c80882ff03a" />
+Architecture Diagram
+<img width="1327" height="592" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/3e5a579e-db06-402d-9e28-3c80882ff03a" />
 
 
 ### Structural Severity Score (SSS) Formula
