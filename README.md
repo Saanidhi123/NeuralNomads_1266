@@ -76,8 +76,7 @@ Drone Images (multiple passes)
 └─────────────────────┘
 ```
 
-![Architecture Diagram]<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/e8a74122-19f5-46bc-8d48-d3f2b71e54a8" />
-
+![Architecture Diagram]<img width="1327" height="592" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/3e5a579e-db06-402d-9e28-3c80882ff03a" />
 
 
 ### Structural Severity Score (SSS) Formula
